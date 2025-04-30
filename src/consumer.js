@@ -1,4 +1,6 @@
 require("dotenv").config();
+
+console.log("RABBITMQ_SERVER:", process.env.RABBITMQ_SERVER);
 const amqp = require("amqplib");
 const NotesService = require("./NotesService");
 const MailSender = require("./MailSender");

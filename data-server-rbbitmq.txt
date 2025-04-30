@@ -1,0 +1,4 @@
+Username => kikiagustin
+password => P@ssword365728
+
+endpoint rabbitmq => amqps://b-d870fd52-f677-46cb-a947-ad8b7516c2fe.mq.ap-southeast-1.on.aws:5671
